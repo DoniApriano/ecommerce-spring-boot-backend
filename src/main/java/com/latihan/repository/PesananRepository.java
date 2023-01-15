@@ -1,4 +1,4 @@
-package com.latihan.services;
+package com.latihan.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
